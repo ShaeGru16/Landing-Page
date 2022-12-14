@@ -1,0 +1,14 @@
+header {
+    position: relative; top: 0px;
+    background-color: aqua;
+}
+header nav {
+    text-align: right;  
+}
+nav ul {
+    display: inline;
+}
+nav h3 {
+    display: inline;
+    text-align: right;
+}
